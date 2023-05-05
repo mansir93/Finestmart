@@ -1,0 +1,6 @@
+.mart__header {
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  margin: auto 4rem;
+}
